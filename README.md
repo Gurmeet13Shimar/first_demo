@@ -1,3 +1,4 @@
 # first_demo
-this is my second git repository
-Author-Gurmeet Shimar
+This is my second git repository.
+<br>
+Author-Gurmeet Shimar.
